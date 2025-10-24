@@ -133,7 +133,7 @@ class Program
             //Console.WriteLine("\nPressione qualquer tecla para continuar...");
             //try { Console.ReadKey(); } catch { }
         }
-
+        
         Console.WriteLine("\n=== FIM DO JOGO ===");
         Console.WriteLine($"Total de movimentos: {moveCount}");
     }
